@@ -9,4 +9,4 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ytfsL&repo=learn-xc)](https://github.com/ytfsL/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ytfsL&repo=learn-xc)](https://github.com/ytfsL/learn-xc)
