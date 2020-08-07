@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ytfsL&show_icons=true&theme=highcontrast)](https://github.com/ytfsL/github-readme-stats&count_private=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ytfsL&show_icons=true&theme=highcontrast&count_private=true?hide=prs)](https://github.com/ytfsL/github-readme-stats)
 
 
 
