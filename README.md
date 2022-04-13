@@ -21,5 +21,4 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bald-head&count_private=true&show_icons=true&theme=panda)](https://github.com/bald-head/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bald-head&count_private=true&show_icons=true&theme=panda)](https://github.com/bald-head)
