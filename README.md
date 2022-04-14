@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bald Head</h1>
-<h3 align="center">A passionate Java developer from China</h3>
 
 
 - 🔭 我常用的工具
