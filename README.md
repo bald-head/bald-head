@@ -12,7 +12,7 @@
 
 - 🤔 常用仓库
 
-​		![](https://img.shields.io/badge/-GitHub-3f4442?logo=GitHub) [![](https://img.shields.io/badge/-Gitee-3f4442?logo=Gitee)](https://gitee.com/bannerXu)
+​		![](https://img.shields.io/badge/-GitHub-3f4442?logo=GitHub) [![](https://img.shields.io/badge/-Gitee-3f4442?logo=Gitee)](https://gitee.com/baldheads-Barry)
 
 - 🤯 常用的系统
 
