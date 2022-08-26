@@ -17,4 +17,4 @@
 
 ​		![](https://img.shields.io/badge/-Centos7-3f4442?logo=Centos) ![](https://img.shields.io/badge/-Mac-3f4442?logo=Apple) 
 
-; [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bald-head&count_private=true&show_icons=true&theme=panda)](https://github.com/bald-head)
+: [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bald-head&count_private=true&show_icons=true&theme=panda)](https://github.com/bald-head)
